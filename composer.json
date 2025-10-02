@@ -1,6 +1,6 @@
 {
     "name": "jairojeffsantos/easy-logger",
-    "description": "PHP library for logging",
+    "description": "Simple and lightweight PHP logger – A minimal class to log messages into daily files with timestamp, level (INFO, ERROR, DEBUG), and unique IDs.",
     "type": "library",
     "license": "mit",
     "autoload": {
