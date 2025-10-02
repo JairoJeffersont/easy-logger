@@ -1,0 +1,19 @@
+{
+    "name": "jairojeffsantos/easy-logger",
+    "description": "PHP library for logging",
+    "type": "library",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "JairoJeffSantos\\EasyLogger\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jairo Santos",
+            "email": "jairojeffersont@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
